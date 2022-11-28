@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.5dd4361c.chunk.css",
-    "main.js": "http://localhost:3000/static/js/main.87da5a24.chunk.js",
-    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.f04ad3d3.js",
-    "static/css/2.06fa0c71.chunk.css": "http://localhost:3000/static/css/2.06fa0c71.chunk.css",
-    "static/js/2.0b92a950.chunk.js": "http://localhost:3000/static/js/2.0b92a950.chunk.js",
-    "3b7c16412d83ae665295.worker.js": "http://localhost:3000/3b7c16412d83ae665295.worker.js",
-    "3b7c16412d83ae665295.worker.js.LICENSE.txt": "http://localhost:3000/3b7c16412d83ae665295.worker.js.LICENSE.txt",
-    "index.html": "http://localhost:3000/index.html",
-    "static/js/2.0b92a950.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.0b92a950.chunk.js.LICENSE.txt",
-    "static/media/agendaLegislativaJudicial.css": "http://localhost:3000/static/media/backgroundAgendaLegislativaJudicial.c46e16eb.png",
-    "static/media/home.css": "http://localhost:3000/static/media/welcome-ilustration.a9b5de42.png"
+    "main.css": "https://akubadaura.github.io/onicpli-frontend/static/css/main.c451bb95.chunk.css",
+    "main.js": "https://akubadaura.github.io/onicpli-frontend/static/js/main.ea19e6db.chunk.js",
+    "runtime-main.js": "https://akubadaura.github.io/onicpli-frontend/static/js/runtime-main.85cd6449.js",
+    "static/css/2.06fa0c71.chunk.css": "https://akubadaura.github.io/onicpli-frontend/static/css/2.06fa0c71.chunk.css",
+    "static/js/2.9ee103d5.chunk.js": "https://akubadaura.github.io/onicpli-frontend/static/js/2.9ee103d5.chunk.js",
+    "1d0f1629bb4c3c8cfb34.worker.js": "https://akubadaura.github.io/onicpli-frontend/1d0f1629bb4c3c8cfb34.worker.js",
+    "1d0f1629bb4c3c8cfb34.worker.js.LICENSE.txt": "https://akubadaura.github.io/onicpli-frontend/1d0f1629bb4c3c8cfb34.worker.js.LICENSE.txt",
+    "index.html": "https://akubadaura.github.io/onicpli-frontend/index.html",
+    "static/js/2.9ee103d5.chunk.js.LICENSE.txt": "https://akubadaura.github.io/onicpli-frontend/static/js/2.9ee103d5.chunk.js.LICENSE.txt",
+    "static/media/agendaLegislativaJudicial.css": "https://akubadaura.github.io/onicpli-frontend/static/media/backgroundAgendaLegislativaJudicial.c46e16eb.png",
+    "static/media/home.css": "https://akubadaura.github.io/onicpli-frontend/static/media/welcome-ilustration.a9b5de42.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f04ad3d3.js",
+    "static/js/runtime-main.85cd6449.js",
     "static/css/2.06fa0c71.chunk.css",
-    "static/js/2.0b92a950.chunk.js",
-    "static/css/main.5dd4361c.chunk.css",
-    "static/js/main.87da5a24.chunk.js"
+    "static/js/2.9ee103d5.chunk.js",
+    "static/css/main.c451bb95.chunk.css",
+    "static/js/main.ea19e6db.chunk.js"
   ]
 }
