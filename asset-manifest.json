@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://akubadaura.github.io/onicpli-frontend/static/css/main.c451bb95.chunk.css",
-    "main.js": "https://akubadaura.github.io/onicpli-frontend/static/js/main.ea19e6db.chunk.js",
+    "main.js": "https://akubadaura.github.io/onicpli-frontend/static/js/main.82ac48ac.chunk.js",
     "runtime-main.js": "https://akubadaura.github.io/onicpli-frontend/static/js/runtime-main.85cd6449.js",
     "static/css/2.06fa0c71.chunk.css": "https://akubadaura.github.io/onicpli-frontend/static/css/2.06fa0c71.chunk.css",
     "static/js/2.9ee103d5.chunk.js": "https://akubadaura.github.io/onicpli-frontend/static/js/2.9ee103d5.chunk.js",
@@ -17,6 +17,6 @@
     "static/css/2.06fa0c71.chunk.css",
     "static/js/2.9ee103d5.chunk.js",
     "static/css/main.c451bb95.chunk.css",
-    "static/js/main.ea19e6db.chunk.js"
+    "static/js/main.82ac48ac.chunk.js"
   ]
 }
